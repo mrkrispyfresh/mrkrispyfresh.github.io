@@ -20,6 +20,10 @@ img:hover {
 
 }
 
+.row {
+	text-align: center;
+}
+
 .container {
 	text-align: center;
 }
@@ -27,5 +31,4 @@ img:hover {
 .btn {
 	font-weight: bold;
 	margin-top: 10px;
-	text-align: center;
 }
