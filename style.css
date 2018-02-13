@@ -15,9 +15,9 @@ img:hover {
 
 @keyframes monkaS {
 	100% {
-		transform: scale(1.05,1.05);	
+		transform: scale(1.05,1.05);
 	}
-	
+
 }
 
 .container {
@@ -27,4 +27,5 @@ img:hover {
 .btn {
 	font-weight: bold;
 	margin-top: 10px;
+	text-align: center;
 }
