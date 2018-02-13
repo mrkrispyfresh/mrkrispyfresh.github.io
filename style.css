@@ -1,0 +1,30 @@
+body {
+	background-color: rgba(164,179,87,1);
+}
+
+img {
+	max-width: 100%;
+	height: auto;
+}
+
+img:hover {
+	animation-name: monkaS;
+	animation-duration: 1.5s;
+	animation-iteration-count: infinite;
+}
+
+@keyframes monkaS {
+	100% {
+		transform: scale(1.05,1.05);	
+	}
+	
+}
+
+.container {
+	text-align: center;
+}
+
+.btn {
+	font-weight: bold;
+	margin-top: 10px;
+}
